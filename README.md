@@ -56,9 +56,9 @@ My foundation covers **Python, SQL, Java and Git/GitHub**, backed by **Data Stru
 class HarshitKhanna:
     role       = "Junior Software Engineer"
     degree     = "B.Tech CSE (AIML)"
-    languages  = ["Python", "Java", "SQL"]
-    frameworks = ["Flask", "Spring Boot"]
-    learning   = ["ML", "Data Science", "DSA"]
+    languages  = "Python", "Java", "SQL"
+    frameworks = "Flask", "Spring Boot"
+    learning   = "ML", "Data Science", "DSA"
     approach   = "Clean code, quick experiments"
 ```
 
@@ -257,11 +257,9 @@ _Loading projects... this list fills in after the update workflow runs for the f
 ## 📊 Contribution Graph
 
 <div align="center">
-
-<a href="https://github.com/harshit8629">
-  <img src="https://ghchart.rshah.org/38BDF8/harshit8629" alt="GitHub contribution graph" width="90%" />
-</a>
-
+  <a href="https://github.com/harshit8629">
+    <img src="https://ghchart.rshah.org/harshit8629" alt="GitHub contribution graph" width="90%" />
+  </a>
 </div>
 
 <br/>
@@ -276,6 +274,6 @@ _Loading projects... this list fills in after the update workflow runs for the f
 
 <br/><br/>
 
-<i>Open to internships, entry-level roles and collaboration. Let's build something great together.</i>
+<i> Let's build something great together.</i>
 
 </div>
