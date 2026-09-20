@@ -5,10 +5,6 @@
 </a>
 
 <p>
-  B.Tech CSE (AIML) &nbsp;•&nbsp; Chandigarh Group of Colleges, Jhanjeri &nbsp;•&nbsp; CGPA 9.03
-</p>
-
-<p>
   <a href="mailto:khannaharshit576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/harshit-khanna-987499327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
@@ -17,10 +13,11 @@
 <p>
   <a href="#-about-me">About</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
+  <a href="#-featured-projects">Featured</a> •
+  <a href="#-all-my-projects">All Projects</a> •
   <a href="#-education">Education</a> •
   <a href="#-certifications">Certifications</a> •
-  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-contribution-graph">Graph</a> •
   <a href="#-contact">Contact</a>
 </p>
 
@@ -42,9 +39,16 @@ class HarshitKhanna:
 
 I build practical projects that turn data into clear analysis and code into maintainable solutions. My foundation covers **Python, SQL, Java and Git/GitHub**, backed by **Data Structures, OOP, DBMS, Operating Systems and Computer Networks**. I work with **Pandas, NumPy, Matplotlib and Seaborn**, and I'm actively growing in **Machine Learning and Data Science**.
 
+<details>
+<summary><b>🎯 Focus, learning and what I'm open to (click to expand)</b></summary>
+
+<br/>
+
 | 🎯 Focus | 🌱 Learning | 🤝 Open To |
 |:--|:--|:--|
 | Full-stack web apps with Flask and Spring Boot | Machine Learning, Data Science, DSA | Internships, entry-level roles and collaboration |
+
+</details>
 
 ---
 
@@ -60,34 +64,33 @@ I build practical projects that turn data into clear analysis and code into main
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark" alt="Tools"/> |
 
-<br/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3F7CAC?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-
 </div>
 
-### 🧠 Skills
+<details>
+<summary><b>🧠 Skills by category (click to expand)</b></summary>
+
+<br/>
 
 | Category | Skills |
 |:--|:--|
 | **Data Analysis** | Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Interpretation · Data Visualization |
 | **Software Development** | OOP · Debugging · Algorithm Design · Unit Testing · Problem Solving |
 | **CS Fundamentals** | Data Structures · DBMS · Operating Systems · Computer Networks |
-| **Machine Learning** | Supervised Learning (Regression and Classification) · Python ML workflow |
+| **Machine Learning** | Supervised Learning (Regression and Classification) |
+| **Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Jinja2 · Thymeleaf · Spring Data JPA |
 
-### 🔧 Skills Used Across Projects
+</details>
+
+<details>
+<summary><b>🔧 Skills used across projects (click to expand)</b></summary>
+
+<br/>
 
 | Skill | Where I've used it |
 |:--|:--|
 | 🐍 **Python** | Sales Analytics System, College Management System |
 | ☕ **Java** | Flood Prediction System |
-| 🗄️ **SQL / MySQL / SQLite** | All three projects |
+| 🗄️ **SQL / MySQL / SQLite** | All three main projects |
 | 📊 **Data Analysis** | Sales Analytics dashboard (revenue, trends, top products) |
 | 🐼 **Pandas · 🔢 NumPy · 📉 Matplotlib** | Sales Analytics System |
 | 🎨 **Seaborn** | Coursework and ongoing Data Science learning |
@@ -96,100 +99,120 @@ I build practical projects that turn data into clear analysis and code into main
 | 🔌 **REST APIs** | Live weather data in the Flood Prediction System |
 | 🔐 **Role-based Auth** | Sales Inventory and Sales Analytics System |
 
+</details>
+
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/View_All_Public_Repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="All public repositories"/></a>
-</div>
+<details open>
+<summary><b>📦 Sales Inventory and Sales Analytics System</b></summary>
 
 <br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Sales Inventory and Sales Analytics System
 
 Multi-user inventory and e-commerce platform with **Admin, Merchant and Customer** portals.
 
 - 🔐 Role-based authentication
-- 🛍️ Cart, checkout and order tracking
+- 🛍️ Product management, cart, checkout and order tracking
 - 📦 Real-time inventory updates
-- 📊 Analytics dashboard for revenue, trends and top sellers
+- 📊 Analytics dashboard for revenue, sales trends and top-selling products
 
-`Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `Jinja2`
+`Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `HTML` `CSS` `Jinja2`
 
 [🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=sales)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🏫 College Management System
+<details>
+<summary><b>🏫 College Management System</b></summary>
+
+<br/>
 
 Full-stack web app to manage academic and administrative operations.
 
-- 🧾 CRUD for students, teachers, departments, courses, marks and fees
-- 🔎 Fast search and data management
-- 🗄️ MySQL with foreign keys, indexes, triggers, stored procedures and generated columns
-- 🧮 Automated grade and fee calculation
+- 🧾 CRUD for students, teachers, departments, courses, marks and fee records
+- 🔎 Efficient search and data management
+- 🗄️ MySQL schema with foreign keys, indexes, triggers, stored procedures and generated columns
+- 🧮 Automated grade and fee calculations
 
-`Python` `Flask` `MySQL` `Bootstrap` `HTML` `CSS`
+`Python` `Flask` `MySQL` `HTML` `CSS` `Bootstrap` `MySQL Workbench`
 
 [🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=college)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-### 🌊 Flood Prediction System
+<details>
+<summary><b>🌊 Flood Prediction System</b></summary>
 
-Flood risk prediction web application powered by live weather data.
+<br/>
 
-- ☁️ Real-time weather API integration (rainfall, humidity, conditions)
-- ⚠️ Rule-based engine classifying risk as **Low, Medium or High**
+Full-stack flood risk prediction web application powered by live weather data.
+
+- ☁️ Real-time weather API integration (rainfall, humidity, conditions by location)
+- ⚠️ Rule-based prediction engine classifying risk as **Low, Medium or High**
 - 🛟 Safety recommendations for each risk level
 
 `Java` `Spring Boot` `Spring MVC` `Thymeleaf` `MySQL` `Spring Data JPA` `REST API`
 
 [🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=flood)
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 📚 Bookland (Contributor)
+<details>
+<summary><b>📚 Bookland (Contributor)</b></summary>
+
+<br/>
 
 Collaborative web-based platform for book reading and discussion, built as a team.
-
-- 🤝 Team-based development
-- 🌐 Web platform for readers and discussion
 
 `Web Development` `Collaboration`
 
 [🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=bookland)
 
-</td>
-</tr>
-</table>
+</details>
+
+---
+
+## 🌍 All My Projects
+
+> This list updates itself from my public repositories, so new projects appear here automatically.
+
+<!--REPOS:START-->
+_Loading projects... this list fills in after the update workflow runs for the first time._
+<!--REPOS:END-->
+
+<div align="center">
+<a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
+</div>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Years | Score |
-|:--|:--|:--:|:--:|
-| **B.Tech, CSE (AIML)** | Chandigarh Group of Colleges, Jhanjeri | 2024 - 2028 | **9.03 CGPA** |
-| **Senior Secondary** | Saint Meera Sr. Sec. Public School, Panjawar, Una | 2023 - 2024 | **78.9%** |
+| Program | Institution | Years |
+|:--|:--|:--:|
+| **B.Tech, Computer Science and Engineering (AIML)** | Undergraduate | 2024 - 2028 |
+| **Senior Secondary** | Saint Meera Sr. Sec. Public School, Panjawar, Una | 2023 - 2024 |
 
 ## 📜 Certifications
+
+<details>
+<summary><b>View certifications (click to expand)</b></summary>
+
+<br/>
 
 - 🤖 **Supervised Machine Learning: Regression and Classification**, DeepLearning.AI and Stanford University (Coursera)
 - 🐍 **Python Bootcamp**, Let's Upgrade
 - 🧩 **Problem Solving Workshop**, Bootcamp Certificate
 
+</details>
+
 ## 💼 Experience and Achievements
+
+<details>
+<summary><b>View highlights (click to expand)</b></summary>
+
+<br/>
 
 - 🤝 Contributor to **Bookland**, a collaborative platform for book reading and discussion
 - 👥 Project-based and team-based activities that built collaboration and analytical thinking
@@ -197,25 +220,17 @@ Collaborative web-based platform for book reading and discussion, built as a tea
 - 🏗️ Three full-stack applications across the **Python/Flask** and **Java/Spring Boot** ecosystems
 - 📈 Regular competitive programming practice
 
+</details>
+
 ---
 
-## 📊 GitHub Analytics
+## 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harshit8629&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/><br/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=harshit8629&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/38BDF8/harshit8629" alt="Contribution chart" width="90%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshit8629&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="GitHub trophies" />
+<a href="https://github.com/harshit8629">
+  <img src="https://ghchart.rshah.org/38BDF8/harshit8629" alt="GitHub contribution graph" width="90%" />
+</a>
 
 </div>
 
