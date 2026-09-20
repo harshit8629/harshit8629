@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Khanna;Junior+Software+Engineer;Python+%7C+SQL+%7C+Java+%7C+Flask+%7C+Spring+Boot;Turning+data+into+insight+and+code+into+solutions" alt="Harshit Khanna" />
 </a>
 
-<br/>
+<!-- <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<br/><br/>
+<br/><br/> -->
 
 <a href="mailto:khannaharshit576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/harshit-khanna-987499327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
