@@ -1,88 +1,111 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Khanna;Junior+Software+Engineer;Python+%7C+SQL+%7C+Java+%7C+Flask+%7C+Spring+Boot;Turning+data+into+insight+and+code+into+solutions" alt="Harshit Khanna" />
+<a href="https://github.com/harshit8629">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Hi+%F0%9F%91%8B+I'm+Harshit+Khanna;Junior+Software+Engineer;Python+%7C+SQL+%7C+Java+%7C+Flask+%7C+Spring+Boot;Turning+data+into+insight+and+code+into+solutions" alt="Harshit Khanna" />
 </a>
 
-<p>
-  <a href="mailto:khannaharshit576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/harshit-khanna-987499327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
-</p>
+<br/>
 
-<p>
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Featured</a> •
-  <a href="#-all-my-projects">All Projects</a> •
-  <a href="#-education">Education</a> •
-  <a href="#-certifications">Certifications</a> •
-  <a href="#-contribution-graph">Graph</a> •
-  <a href="#-contact">Contact</a>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<br/><br/>
+
+<a href="mailto:khannaharshit576@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/harshit-khanna-987499327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+
+<br/><br/>
+
+<b>
+<a href="#-about-me">About</a> &nbsp;·&nbsp;
+<a href="#-tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#-featured-projects">Featured</a> &nbsp;·&nbsp;
+<a href="#-all-my-projects">All Projects</a> &nbsp;·&nbsp;
+<a href="#-certifications">Certifications</a> &nbsp;·&nbsp;
+<a href="#-contribution-graph">Graph</a> &nbsp;·&nbsp;
+<a href="#-contact">Contact</a>
+</b>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I build practical projects that turn **data into clear analysis** and **code into maintainable solutions**.
+
+My foundation covers **Python, SQL, Java and Git/GitHub**, backed by **Data Structures, OOP, DBMS, Operating Systems and Computer Networks**. I work with **Pandas, NumPy, Matplotlib and Seaborn**, and I'm actively growing in **Machine Learning and Data Science**.
+
+- 🌐 Full-stack builder with **Flask** and **Spring Boot**
+- 🧩 **85+ LeetCode** and **50+ HackerRank** problems solved
+- 🤝 Contributor to **Bookland**, a collaborative reading platform
+- 🔎 Open to internships, entry-level roles and collaboration
+
+</td>
+<td width="45%" valign="top">
 
 ```python
 class HarshitKhanna:
     role       = "Junior Software Engineer"
-    studying   = "B.Tech CSE (AIML), 2024-2028"
+    degree     = "B.Tech CSE (AIML)"
     languages  = ["Python", "Java", "SQL"]
     frameworks = ["Flask", "Spring Boot"]
-    learning   = ["Machine Learning", "Data Science", "DSA"]
-    approach   = "Clean problem solving, quick experiments, maintainable code"
+    learning   = ["ML", "Data Science", "DSA"]
+    approach   = "Clean code, quick experiments"
 ```
 
-I build practical projects that turn data into clear analysis and code into maintainable solutions. My foundation covers **Python, SQL, Java and Git/GitHub**, backed by **Data Structures, OOP, DBMS, Operating Systems and Computer Networks**. I work with **Pandas, NumPy, Matplotlib and Seaborn**, and I'm actively growing in **Machine Learning and Data Science**.
-
-<details>
-<summary><b>🎯 Focus, learning and what I'm open to (click to expand)</b></summary>
+</td>
+</tr>
+</table>
 
 <br/>
-
-| 🎯 Focus | 🌱 Learning | 🤝 Open To |
-|:--|:--|:--|
-| Full-stack web apps with Flask and Spring Boot | Machine Learning, Data Science, DSA | Internships, entry-level roles and collaboration |
-
-</details>
-
----
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 | | |
-|:--|:--|
+|:--:|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" alt="Languages"/> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=flask,spring,bootstrap&theme=dark" alt="Frameworks"/> |
-| **Data & ML Libraries** | <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Libraries"/> |
+| **Data & ML** | <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data and ML"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Databases"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode&theme=dark" alt="Tools"/> |
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3F7CAC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 
 </div>
 
 <details>
-<summary><b>🧠 Skills by category (click to expand)</b></summary>
+<summary><b>🧠 Skills by category</b></summary>
 
 <br/>
 
 | Category | Skills |
 |:--|:--|
-| **Data Analysis** | Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Interpretation · Data Visualization |
-| **Software Development** | OOP · Debugging · Algorithm Design · Unit Testing · Problem Solving |
-| **CS Fundamentals** | Data Structures · DBMS · Operating Systems · Computer Networks |
-| **Machine Learning** | Supervised Learning (Regression and Classification) |
-| **Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Jinja2 · Thymeleaf · Spring Data JPA |
+| 📊 **Data Analysis** | Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Data Interpretation · Data Visualization |
+| ⚙️ **Software Development** | OOP · Debugging · Algorithm Design · Unit Testing · Problem Solving |
+| 🧱 **CS Fundamentals** | Data Structures · DBMS · Operating Systems · Computer Networks |
+| 🤖 **Machine Learning** | Supervised Learning (Regression and Classification) |
 
 </details>
 
 <details>
-<summary><b>🔧 Skills used across projects (click to expand)</b></summary>
+<summary><b>🔧 Skills used across projects</b></summary>
 
 <br/>
 
@@ -90,8 +113,8 @@ I build practical projects that turn data into clear analysis and code into main
 |:--|:--|
 | 🐍 **Python** | Sales Analytics System, College Management System |
 | ☕ **Java** | Flood Prediction System |
-| 🗄️ **SQL / MySQL / SQLite** | All three main projects |
-| 📊 **Data Analysis** | Sales Analytics dashboard (revenue, trends, top products) |
+| 🗄️ **SQL / MySQL / SQLite** | All main projects |
+| 📊 **Data Analysis** | Sales analytics dashboard (revenue, trends, top products) |
 | 🐼 **Pandas · 🔢 NumPy · 📉 Matplotlib** | Sales Analytics System |
 | 🎨 **Seaborn** | Coursework and ongoing Data Science learning |
 | 🤖 **Machine Learning** | Coursera specialization and ongoing learning |
@@ -101,77 +124,92 @@ I build practical projects that turn data into clear analysis and code into main
 
 </details>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
-<details open>
-<summary><b>📦 Sales Inventory and Sales Analytics System</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 📦 Sales Inventory & Analytics
 
 Multi-user inventory and e-commerce platform with **Admin, Merchant and Customer** portals.
 
 - 🔐 Role-based authentication
-- 🛍️ Product management, cart, checkout and order tracking
+- 🛍️ Cart, checkout and order tracking
 - 📦 Real-time inventory updates
-- 📊 Analytics dashboard for revenue, sales trends and top-selling products
+- 📊 Dashboard for revenue, trends and top sellers
 
-`Python` `Flask` `SQLite` `Pandas` `NumPy` `Matplotlib` `HTML` `CSS` `Jinja2`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 
-[🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=sales)
+[🔎 View on GitHub](https://github.com/harshit8629?tab=repositories&q=sales)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🏫 College Management System</b></summary>
+### 🏫 College Management System
+
+Full-stack web app for academic and administrative operations.
+
+- 🧾 CRUD for students, teachers, courses, marks and fees
+- 🔎 Fast search and data management
+- 🗄️ Foreign keys, indexes, triggers and stored procedures
+- 🧮 Automated grade and fee calculation
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+[🔎 View on GitHub](https://github.com/harshit8629?tab=repositories&q=college)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 Flood Prediction System
+
+Flood risk prediction web app powered by live weather data.
+
+- ☁️ Real-time weather API integration
+- ⚠️ Rule-based engine: **Low, Medium or High** risk
+- 🛟 Safety recommendations per risk level
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+[🔎 View on GitHub](https://github.com/harshit8629?tab=repositories&q=flood)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Bookland (Contributor)
+
+Collaborative web platform for book reading and discussion, built as a team.
+
+- 🤝 Team-based development
+- 🌐 Reading and discussion features
+
+<img src="https://img.shields.io/badge/Web_Development-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Collaboration-2C5364?style=flat-square"/>
+
+[🔎 View on GitHub](https://github.com/harshit8629?tab=repositories&q=bookland)
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-Full-stack web app to manage academic and administrative operations.
-
-- 🧾 CRUD for students, teachers, departments, courses, marks and fee records
-- 🔎 Efficient search and data management
-- 🗄️ MySQL schema with foreign keys, indexes, triggers, stored procedures and generated columns
-- 🧮 Automated grade and fee calculations
-
-`Python` `Flask` `MySQL` `HTML` `CSS` `Bootstrap` `MySQL Workbench`
-
-[🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=college)
-
-</details>
-
-<details>
-<summary><b>🌊 Flood Prediction System</b></summary>
-
-<br/>
-
-Full-stack flood risk prediction web application powered by live weather data.
-
-- ☁️ Real-time weather API integration (rainfall, humidity, conditions by location)
-- ⚠️ Rule-based prediction engine classifying risk as **Low, Medium or High**
-- 🛟 Safety recommendations for each risk level
-
-`Java` `Spring Boot` `Spring MVC` `Thymeleaf` `MySQL` `Spring Data JPA` `REST API`
-
-[🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=flood)
-
-</details>
-
-<details>
-<summary><b>📚 Bookland (Contributor)</b></summary>
-
-<br/>
-
-Collaborative web-based platform for book reading and discussion, built as a team.
-
-`Web Development` `Collaboration`
-
-[🔎 Find on GitHub](https://github.com/harshit8629?tab=repositories&q=bookland)
-
-</details>
-
----
 
 ## 🌍 All My Projects
 
@@ -185,32 +223,24 @@ _Loading projects... this list fills in after the update workflow runs for the f
 <a href="https://github.com/harshit8629?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"/></a>
 </div>
 
----
-
-## 🎓 Education
-
-| Program | Institution | Years |
-|:--|:--|:--:|
-| **B.Tech, Computer Science and Engineering (AIML)** | Undergraduate | 2024 - 2028 |
-| **Senior Secondary** | Saint Meera Sr. Sec. Public School, Panjawar, Una | 2023 - 2024 |
+<br/>
 
 ## 📜 Certifications
 
-<details>
-<summary><b>View certifications (click to expand)</b></summary>
+<table>
+<tr>
+<td align="center" width="33%">🤖<br/><b>Supervised Machine Learning</b><br/><sub>Regression and Classification<br/>DeepLearning.AI and Stanford (Coursera)</sub></td>
+<td align="center" width="33%">🐍<br/><b>Python Bootcamp</b><br/><sub>Let's Upgrade</sub></td>
+<td align="center" width="33%">🧩<br/><b>Problem Solving Workshop</b><br/><sub>Bootcamp Certificate</sub></td>
+</tr>
+</table>
 
 <br/>
 
-- 🤖 **Supervised Machine Learning: Regression and Classification**, DeepLearning.AI and Stanford University (Coursera)
-- 🐍 **Python Bootcamp**, Let's Upgrade
-- 🧩 **Problem Solving Workshop**, Bootcamp Certificate
-
-</details>
-
-## 💼 Experience and Achievements
+## 🏆 Highlights
 
 <details>
-<summary><b>View highlights (click to expand)</b></summary>
+<summary><b>Experience and achievements (click to expand)</b></summary>
 
 <br/>
 
@@ -222,7 +252,7 @@ _Loading projects... this list fills in after the update workflow runs for the f
 
 </details>
 
----
+<br/>
 
 ## 📊 Contribution Graph
 
@@ -234,7 +264,7 @@ _Loading projects... this list fills in after the update workflow runs for the f
 
 </div>
 
----
+<br/>
 
 ## 📫 Contact
 
@@ -244,8 +274,8 @@ _Loading projects... this list fills in after the update workflow runs for the f
 <a href="https://www.linkedin.com/in/harshit-khanna-987499327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/harshit8629"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/>
+<br/><br/>
 
-*Open to internships, entry-level roles and collaboration. Let's build something.*
+<i>Open to internships, entry-level roles and collaboration. Let's build something great together.</i>
 
 </div>
