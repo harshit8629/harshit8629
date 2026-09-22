@@ -254,16 +254,6 @@ _Loading projects... this list fills in after the update workflow runs for the f
 
 <br/>
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/harshit8629">
-    <img src="https://ghchart.rshah.org/harshit8629" alt="GitHub contribution graph" width="90%" />
-  </a>
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
